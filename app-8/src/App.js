@@ -9,7 +9,8 @@ class App extends Component{
     super()
 
     this.state = {
-      blastoise: ""
+      blastoise: "",
+      
     } 
   }
 
